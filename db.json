@@ -1,4 +1,5 @@
-[
+{
+  "characters": [
 {
 "id": 1,
 "who": "Finn the Humman",
@@ -18,3 +19,4 @@
 "qty": 22
 }
 ]
+}
