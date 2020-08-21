@@ -1,20 +1,19 @@
 {
-  {
-  "id": 1,
-  "who": "Finn the Humman",
-  "wat": "A silly kid who wnts to become a hero",
-  "qty": 9
-  },
-  {
-  "id": 2,
-  "who": "Marceline the Vamire",
-  "wat": "A silly Vampire who wants to become a slut",
-  "qty": 19
-  },
-  {
-  "id": 3,
-  "who": "Ice Ice King",
-  "wat": "A silly King who wants to become a bitch",
-  "qty": 22
-  }
+"id": 1,
+"who": "Finn the Humman",
+"wat": "A silly kid who wnts to become a hero",
+"qty": 9
+},
+{
+"id": 2,
+"who": "Marceline the Vamire",
+"wat": "A silly Vampire who wants to become a slut",
+"qty": 19
+},
+{
+"id": 3,
+"who": "Ice Ice King",
+"wat": "A silly King who wants to become a bitch",
+"qty": 22
+  
 }
